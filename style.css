@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(152, 216, 211);
+}
+h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: rgb(2, 2, 20);
+    text-align: justify;
+}
+#imagem1{
+width: 1300px;
+height: 300px;
+margin: 0%;
+
+
+
+
+}
+ol{
+    font-size: 20px;
+
+
+}
+.itens{
+    background-color: rgb(240, 236, 243);
+    padding: 30px;
+    li
+}
+ul{
+    display: inline-block;
+    vertical-align:top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+#imagem2{
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+
+}
