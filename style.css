@@ -1,43 +1,73 @@
-body{
+body {
     background-color: rgb(152, 216, 211);
 }
-h1{
+
+h1 {
     font-size: 40px;
     color: black;
     text-align: center;
 }
-p{
+
+#imagem1 {
+    width: 100%;
+    height: 250px;
+
+
+
+}
+
+.principal {
+    background-color: rgba(10, 34, 247, 0.664);
+    padding: 30px;
+}
+
+.título-principal {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
     font-size: 20px;
     color: rgb(2, 2, 20);
     text-align: justify;
 }
-#imagem1{
-width: 1300px;
-height: 300px;
-margin: 0%;
 
-
-
-
+#missão {
+    font-size: 20px;
 }
-ol{
+
+em strong {
+    color: crimson;
+}
+
+.itens {
+    font-style: italic;
+}
+
+ol {
     font-size: 20px;
 
 
 }
-.itens{
+
+.itens {
     background-color: rgb(240, 236, 243);
     padding: 30px;
     li
 }
-ul{
+
+ul {
     display: inline-block;
-    vertical-align:top;
+    vertical-align: top;
     width: 20%;
     margin-right: 15%;
 
 }
-#imagem2{
+
+#imagem2 {
     width: 200px;
     height: 150px;
     padding: 20px;
